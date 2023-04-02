@@ -1,0 +1,5 @@
+2023-04-02 23:19:09.017462 - Initialized conversion of CBT305
+2023-04-02 23:19:09.064974 - Received CBT.V504.FILE305.PDS from FILE305.XMI 
+2023-04-02 23:19:09.067604 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE305.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:19:09.068953 - Found @FILE305.txt (text/plain) in CBT.V504.FILE305.PDS, moved to PDS/@FILE305
+2023-04-02 23:19:09.070142 - Found LISTING.txt (text/plain) in CBT.V504.FILE305.PDS, moved to PDS/LISTING
